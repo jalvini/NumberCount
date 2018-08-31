@@ -1,0 +1,10 @@
+0 Occurs: 193
+1 Occurs: 301
+2 Occurs: 300
+3 Occurs: 300
+4 Occurs: 300
+5 Occurs: 300
+6 Occurs: 300
+7 Occurs: 300
+8 Occurs: 300
+9 Occurs: 300
