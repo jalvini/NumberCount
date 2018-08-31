@@ -12,5 +12,5 @@ function numberFinder(input){
 }
 
 for(let i = 0; i <= 9; i++){
-    console.log( i + ' Occurs: ' + numberFinder(i));
+    console.log( i + ' Occurs: ' + numberFinder(i) + 'tmes');
 }
